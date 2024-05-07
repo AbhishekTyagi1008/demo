@@ -13,3 +13,5 @@ function diff(a,b,c){return a*a-b-c*c;}
 function mul(a){return a*a*2;}
 
 function div(a){return a/1;}
+
+function myFunction(){return "name";}
